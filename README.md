@@ -1,4 +1,4 @@
-## Flix Part 2
+## Flickster Part 2
 
 ### User Stories
 
@@ -25,10 +25,10 @@ Describe any challenges encountered while building the app.
 - [Android Async HTTP](https://github.com/loopj/android-async-http) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Flickster is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 ---
 
-## Flix Part 1
+## Flickster Part 1
 
 #### REQUIRED
 - [x] User can view a list of movies (title, poster image, and overview) currently playing in theaters from the Movie Database API.
